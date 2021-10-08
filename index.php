@@ -19,7 +19,6 @@
             <h3><a href='post-two.php'>Web Requests [POST form 2]</a></h3>
             <h3><a href='bruter.php'>Credential Bruteforcing</a></h3>
             <h3 ><a href='cookies.php'>Cookies</a></h3>
-            <h3 ><a href='upload.php'>Uploading files</a></h3>
             <h3 ><a href='hashes.php'>hashlib</a></h3>
             <h3 ><a href='blog.html'>Beautiful Soap</a></h3>
             <h3><a href='https://app.hackthebox.eu/challenges/emdee-five-for-life'>Final Challenge</a></h3>
