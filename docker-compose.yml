@@ -1,0 +1,16 @@
+version: '3.3'
+
+volumes:
+  datafiles:
+
+services:
+ 
+  website:
+    container_name: php73
+    build:
+      context: .
+      dockerfile: Dockerfile
+    
+    ports:
+      - 8080:80
+      - 8083:443
